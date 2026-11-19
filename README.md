@@ -88,7 +88,3 @@ The selected 16-channel montage includes frontal artifact proxies and central mo
 ```text
 Fp1 Fp2 F3 Fz F4 FC3 FCz FC4 C3 Cz C4 CP3 CPz CP4 P3 P4
 ```
-
-## Dashboard
-
-The dashboard provides:
